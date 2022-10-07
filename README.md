@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lrpineda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Luis!
+- 👀 I’m interested in all things tech, currently workion on web development.
+- 🌱 I’m currently learning nextJS, .net framework. 
+- 💞️ I’m looking to collaborate on MERN stack projects
+- 📫 How to reach me luis@lpineda.dev
 
 <!---
 lrpineda/lrpineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

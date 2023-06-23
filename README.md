@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis!
 - 👀 I’m interested in all things tech, currently workion on web development.
-- 🌱 I’m currently learning nextJS, .net framework. 
+- 🌱 I’m currently learning nextJS, angulaJS and Java
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me luis@lpineda.dev
 
